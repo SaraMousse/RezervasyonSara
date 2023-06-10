@@ -1,0 +1,19 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.no-flights-message {
+  font-size: 18px;
+  color: red;
+}
+
+/* Diğer stil tanımlamalarını buraya ekleyebilirsiniz */
+
